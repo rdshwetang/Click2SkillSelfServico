@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C2S SelfServico</string>
+    <string name="action_settings">Configuracao</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_customer_token_screen">CustomerTokenScreen</string>
+    <string name="title_activity_sub_menu1">SubMenu1</string>
+    <string name="title_activity_confirmation_screen">ConfirmationScreen</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceu_senha">Esqueceu sua senha ?</string>
+    <string name="customer_token_no">Customer Token</string>
+    <string name="sair">Sair</string>
+    <string name="table_no">Table Number</string>
+    <string name="title_activity_payment_screen">PaymentScreen</string>
+    <string name="title_activity_app_configuration">AppConfiguration</string>
+    <string name="title_activity_add_main_menu">AddMainMenu</string>
+    <string name="title_activity_add_sub_menu">AddSubMenu</string>
+
+</resources>
